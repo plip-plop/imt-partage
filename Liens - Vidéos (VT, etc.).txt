@@ -1,0 +1,17 @@
+--- Culture G ---
+Jake Archibald - On the web browser event loop
+https://www.youtube.com/watch?v=cCOL7MC4Pl0
+
+Benjamin Cavy - Event loop et asynchronisme en JavaScript
+https://www.youtube.com/watch?v=OFnSq_0_Pyc
+
+Anthony Le Goas - Sous le capot des navigateurs web
+https://www.youtube.com/watch?v=witVrs6V4mE
+
+NOTHING TO HIDE  - Documentaire sur les données personnelles
+https://www.youtube.com/watch?v=djbwzEIv7gE
+
+
+--- VT ---
+- Angular Devs France (LinkedIn)
+- Marmicode
